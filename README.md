@@ -1,16 +1,10 @@
-# apis
+#FinestChef App
 
-A new Flutter project.
+Meet you new cooking coach!
+Finest Chef is a food recipe book where you can
+find all kind of tasty recipes shared by friends.
+User can upload tasty recipes and share it with friends
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![page1Designs](https://user-images.githubusercontent.com/107764659/191036268-79d74fd4-4e5e-4d5a-9b12-5c4eee289be9.jpg?raw=true)
+![page2Deisgn](https://user-images.githubusercontent.com/107764659/191036362-02ff9638-fdda-4632-be04-9601995bdb4f.jpg?raw=true)
